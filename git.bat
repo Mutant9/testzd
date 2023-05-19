@@ -1,1 +1,0 @@
-e:\my\git remote add puplic keybase://private/mutant9/EXCHANGE
